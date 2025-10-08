@@ -1,1 +1,1 @@
-sub://aHR0cHM6Ly95aXNodXlhbmdndWFuZy5kcGRucy5vcmcvY20/c3Vi#%E5%85%A8%E7%BE%8E%E5%9B%BD
+vless://YXV0bzo3ZDYzOTAwOS1kNmU0LTRhYTgtODIwOC1mM2RhMDhlYzZkOTlAMTA0LjE4LjM4LjQ3OjQ0Mw?path=/?ed=2560&remarks=%E7%BE%8E%E5%9B%BD%E5%B8%8C%E5%9B%BE%E9%9B%852&obfsParam=yishuyangguang.dpdns.org&obfs=websocket&tls=1&peer=yishuyangguang.dpdns.org&allowInsecure=1&fragment=1,40-60,30-50,tlshello&mode=1,40-60,30-50,tlshello
