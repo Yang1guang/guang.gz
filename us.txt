@@ -1,2 +1,1 @@
-vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE2LjE0Mi4yNDc6MjA4Mg?path=/?ed=2560&remarks=CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B904&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
-vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE4LjIwMS4yNDI6ODg4MA?path=/?ed=2560&remarks=CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B906&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
+vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE2LjE0Mi4yNDc6MjA4Mg?path=/?ed=2560&remarks=%E7%BE%8E%E5%9B%BDcf&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
