@@ -1,1 +1,3 @@
 vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE2LjE0Mi4yNDc6MjA4Mg?path=/?ed=2560&remarks=%E7%BE%8E%E5%9B%BDcf&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
+vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE3LjIxMi4xMDU6ODA?path=/?ed=2560&remarks=%E7%BE%8E%E5%9B%BDCF2&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
+vless://YXV0bzoyZDVjNDk3ZC1mOTM2LTQ2OGMtYTQzYS1iN2U5NDM5OGU5ZDBAMTA0LjE5LjExNy4yMDk6ODA4MA?path=/?ed=2560&remarks=%E7%BE%8E%E5%9B%BDCF3&obfsParam=autumn-leaf-d466.obadaih.workers.dev&obfs=websocket
