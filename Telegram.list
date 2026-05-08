@@ -25,6 +25,12 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-KEYWORD,nicegram
 IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,91.108.56.106/32,no-resolve
+IP-CIDR,149.154.166.120/32,no-resolve
+IP-CIDR,149.154.175.51/32,no-resolve
+IP-CIDR,149.154.167.151/32,no-resolve
+IP-CIDR,149.154.175.60/32,no-resolve
+IP-CIDR,91.108.56.154/32,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
