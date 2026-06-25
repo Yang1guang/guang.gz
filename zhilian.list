@@ -1,4 +1,8 @@
 # 需要走直连的网址
+
+# 1. 域名后缀匹配 (DOMAIN-SUFFIX)
+DOMAIN-SUFFIX,eioqntachgyh.top
+DOMAIN-SUFFIX,wcvufvqapc.space
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xmac.app
 DOMAIN-SUFFIX,chuangzaolun.com
@@ -19,7 +23,6 @@ DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,s1.vipi.top
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoom.com
-DOMAIN-SUFFIX,lnk.yesu.app
 DOMAIN-SUFFIX,am0otofbpl.com
 DOMAIN-SUFFIX,cdnforbible.com
 DOMAIN-SUFFIX,d1.wedevotebible.org
@@ -31,14 +34,8 @@ DOMAIN-SUFFIX,zoommb134-224-141-117tunnel.cloud
 DOMAIN-SUFFIX,zoomva134-224-18-0zc.cloud
 DOMAIN-SUFFIX,us02zpns.zoom.us
 DOMAIN-SUFFIX,zoomsjcaw46mmr.sjc.zoom.us
-IP-CIDR,103.74.192.62/32
-USER-AGENT,com.apple.trustd*
-DOMAIN-SUFFIX,s1.vipi.top
-IP-CIDR,144.195.6.24/32
 DOMAIN-SUFFIX,u.expo.dev
-IP-CIDR,144.195.5.98/32
 DOMAIN-SUFFIX,zoom.com.cn
-IP-CIDR,144.195.2.190/32
 DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,1.uysafapi.icu
 DOMAIN-SUFFIX,roaming.svc.cloud.microsoft
@@ -51,16 +48,25 @@ DOMAIN-SUFFIX,d1.endao.app
 DOMAIN-SUFFIX,0u85f.xiaoen.app
 DOMAIN-SUFFIX,ambplapi0ot.com
 DOMAIN-SUFFIX,alibplapi0ot.com
-DOMAIN-SUFFIX,cdnforbible.com
 DOMAIN-SUFFIX,https.ng
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,download.jetbrains.com
-DOMAIN,file-igamecj.akamaized.net
 DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
-DOMAIN,speedtest.macpaw.com
 DOMAIN-SUFFIX,zoomsjcbg147mmr.sjc.zoom.us
 DOMAIN-SUFFIX,zoomiadkw213zc.iad.zoom.us
-DOMAIN-SUFFIX,us02zpns.zoom.us
 DOMAIN-SUFFIX,us.telemetry.zoom.us
+
+# 2. 完整域名匹配 (DOMAIN)
+DOMAIN,file-igamecj.akamaized.net
+DOMAIN,speedtest.macpaw.com
+
+# 3. IP 地址段匹配 (IP-CIDR)
+IP-CIDR,103.74.192.62/32
+IP-CIDR,144.195.6.24/32
+IP-CIDR,144.195.5.98/32
+IP-CIDR,144.195.2.190/32
+
+# 4. 用户代理匹配 (USER-AGENT)
+USER-AGENT,com.apple.trustd*
